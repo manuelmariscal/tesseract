@@ -1,4 +1,5 @@
-pytesseract==0.3.13
-pillow
 pandas
+pytesseract
 pdf2image
+Pillow
+unidecode
